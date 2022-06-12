@@ -2,9 +2,9 @@
 
 ## Description
 
-This repository contains [our](#authors) entry to the "Quant World" challenge organized by LSEG Romania in 2022.
+This repository contains [our](#authors) entry to the "Quant World 2022" challenge organized by [LSEG](https://lseg.com) Romania for the students at the [Faculty of Mathematics and Informatics](https://fmi.unibuc.ro/en/), [University of Bucharest](https://unibuc.ro/?lang=en).
 
-The objective was to predict the short-term evolution of the closing price for five different stocks, using historical data starting from about 2012. Since the input dataset contained no other information about the companies except for opening/closing prices and trading volumes, we had to rely on [technical analysis](https://en.wikipedia.org/wiki/Technical_analysis) to predict future changes in the stocks' values.
+The objective was to predict the short-term evolution of the closing price for five different stocks, using historical data starting from about 2012. Since the input dataset contained no other information about the companies except for opening/closing prices and trading volumes, we had to rely on [technical analysis](https://en.wikipedia.org/wiki/Technical_analysis) to predict future changes in the stocks' values. We've won second place for our analysis and modelling of the data.
 
 The data loading, exploratory data analysis, data preprocessing, feature engineering and model building and selection code is included in [the Jupyter notebook included in the repo](Stock_price_forecasting.ipynb).
 
